@@ -1,0 +1,15 @@
+/home/f4cu/Documentos/Escuela.NET/bin/Debug/net6.0/Escuela.NET
+/home/f4cu/Documentos/Escuela.NET/bin/Debug/net6.0/Escuela.NET.deps.json
+/home/f4cu/Documentos/Escuela.NET/bin/Debug/net6.0/Escuela.NET.runtimeconfig.json
+/home/f4cu/Documentos/Escuela.NET/bin/Debug/net6.0/Escuela.NET.dll
+/home/f4cu/Documentos/Escuela.NET/bin/Debug/net6.0/Escuela.NET.pdb
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.csproj.AssemblyReference.cache
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.GeneratedMSBuildEditorConfig.editorconfig
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.AssemblyInfoInputs.cache
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.AssemblyInfo.cs
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.csproj.CoreCompileInputs.cache
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.dll
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/refint/Escuela.NET.dll
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.pdb
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/Escuela.NET.genruntimeconfig.cache
+/home/f4cu/Documentos/Escuela.NET/obj/Debug/net6.0/ref/Escuela.NET.dll
